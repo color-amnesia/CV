@@ -1,0 +1,376 @@
+{
+    "basics": {
+        "label": "Biophysicist | Photographer",
+        "phone": "",
+        "website": "https:\/\/www.coloramnesia.com\/",
+        "summary": "Scientist-creative hybrid. I worked alongside Nobel Prize winners crafting my epistemological intuition and imagination. I am creative and artistically apt; good leader able to communicate and drive ideas. Good with data analysis and analytical thinking.",
+        "location": {
+            "address": "Smeed Road",
+            "postalCode": "E3 2NR",
+            "city": "London",
+            "region": "England"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "piotr-wysoczanski",
+                "url": "https:\/\/www.linkedin.com\/in\/piotr-wysoczanski\/"
+            }
+        ],
+        "name": "Piotr Wysoczanski"
+    },
+    "work": [
+        {
+            "company": "PCR Biosystems Ltd",
+            "position": "Laboratory Director",
+            "website": "https:\/\/pcrbio.com\/",
+            "startDate": "2017-03-01",
+            "endDate": "",
+            "summary": "I am responsible for overseeing, directing research and implementing new research ideas. I implemented and now oversee maintenance of ISO:13485 quality standard. I brought a perspective of hard biophysics into the area of molecular biology.",
+            "highlights": [
+                "Development of a portfolio of novel products",
+                "Implementation of ISO:13485 and ISO:9013",
+                "Advancement of new quality procedures",
+                "Increase of efficiency of production management",
+                "Short and long term research strategy",
+                "Development of FileMaker software",
+                "Mentoring",
+                "Organasing Events",
+                "Organising Technical Support",
+                "Website Development"
+            ]
+        },
+        {
+            "company": "The Jazz Cafe",
+            "position": "Bartender",
+            "website": "https:\/\/thejazzcafelondon.com\/",
+            "startDate": "2016-09-01",
+            "endDate": "2017-03-01",
+            "summary": "Fast-paced, vibrant enviroment of a crazy and famouse music venue that hosted stars like Amy Winehouse ",
+            "highlights": [
+                "Preparing cocktails and chatting up customers for a wholesome customer experience"
+            ]
+        },
+        {
+            "company": "Ministry of Sound",
+            "position": "Bartender",
+            "website": "https:\/\/www.ministryofsound.com\/",
+            "startDate": "2016-03-01",
+            "endDate": "2016-09-01",
+            "summary": "Speed bartending in one of the busiest clubs in the world",
+            "highlights": [
+                "Shifts from 8pm to 6am in the morning",
+                "Remaining focused and attentive throughout a night"
+            ]
+        },
+        {
+            "company": "World",
+            "position": "Traveler",
+            "website": "https:\/\/www.google.com\/maps",
+            "startDate": "2015-08-01",
+            "endDate": "2016-03-01",
+            "summary": "Gathering experience and inspiration from around the world",
+            "highlights": [
+                "Organisation of a half-a-year trip on a budget",
+                "Photoshoots for a hostels along the way"
+            ]
+        },
+        {
+            "company": "Max Planck Institute for Biophysical Chemistry",
+            "position": "Postdoctoral Fellow",
+            "website": "https:\/\/www.mpibpc.mpg.de\/en",
+            "startDate": "2015-09-01",
+            "endDate": "2012-08-01",
+            "summary": "I planned and executed a project deemed unsolvable by my 3 predecessors. I wrote papers in top scientific journals. I colaborated with multiple laboratories and researches. I self-taught most complicated biopysical methods.",
+            "highlights": [
+                "Cloning",
+                "Preparing proteins for structural studies",
+                "Multidimensional NMR spectroscopy experiments",
+                "Calculating structure of a trimeric protein",
+                "Protein interactions  ITC; SEC-MALS; CD; DLS; fluorymetry",
+                "Internal protein dynamics measurements",
+                "Writing scientific papers",
+                "Overseeing and mentoring",
+                "Presenting scientific data"
+            ]
+        },
+        {
+            "company": "Art Gallery 'Pod Iglica'",
+            "position": "Sales Assistant",
+            "startDate": "2012-03-01",
+            "endDate": "2012-09-01",
+            "summary": "Sales experience in an art world of my father's art gallery",
+            "highlights": [
+                "Engaging customers",
+                "Preparing inventory",
+                "Organising events"
+            ]
+        },
+        {
+            "company": "Cardiff University, Bristol University and Birmingham University",
+            "position": "PhD researcher",
+            "website": "http:\/\/blogs.cardiff.ac.uk\/allemann\/",
+            "startDate": "2008-05-01",
+            "endDate": "2012-01-01",
+            "summary": "I worked on Nuclear Magnetic Resonance Spectroscopy protein structure elucidation of a dimeric apoptotic complex. Alongside I  develped photoswitchable peptides for disrupting protein-protein and protein-RNA interactions ",
+            "highlights": [
+                "NMR spectroscopy",
+                "Protein structure calculation",
+                "Portfolio of biophysical measurments",
+                "Multi-university collaboration",
+                "Publishing papers"
+            ]
+        },
+        {
+            "company": "Xenetic Biosciences PLC (former Lipoxen PLC)",
+            "position": "Staff Scientist",
+            "website": "https:\/\/www.xeneticbio.com\/",
+            "startDate": "2007-05-01",
+            "endDate": "2008-04-01",
+            "summary": "Analysis and development of Taxol liposomal formulations of low toxicity.",
+            "highlights": [
+                "HPLC analysis",
+                "Liposomes preparation",
+                "Analysis method development"
+            ]
+        },
+        {
+            "company": "Celtic Pub and Club",
+            "position": "Bartender",
+            "startDate": "2006-08-01",
+            "endDate": "2007-03-01",
+            "summary": "First work experience in a busy Polish club",
+            "highlights": [
+                "Cocktail bartending"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Cardiff University",
+            "area": "Biological Chemistry",
+            "studyType": "PhD",
+            "startDate": "2008-05-01",
+            "endDate": "2012-01-01",
+            "gpa": ""
+        },
+        {
+            "institution": "University of Wroclaw",
+            "area": "Biotechnology",
+            "studyType": "Bachelor of Science",
+            "startDate": "2003-09-01",
+            "endDate": "2006-06-01",
+            "projects": [
+                "Nuclear magnetic resonance spectroscopy structural analysis of a photo-switchable peptide derived from Bak bound to apoptotic Bcl-xL",
+                "Teaching BSc student spectroscopy"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Finalist of Biology Olympiad",
+            "date": "2011-10-01",
+            "awarder": "Ministry of Education",
+            "summary": "During high school I entered the final of Polish Biology Olympiad covering subjects from broad spectrum of biosciences at univeristy level. This allowed me to join any related course at any Polish university without exams."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Structure and pro-toxic mechanism of the human Hsp90\/PPIase\/Tau complex",
+            "publisher": "Nature Communications",
+            "releaseDate": "2018-10-31",
+            "website": "https:\/\/doi.org\/10.1038\/s41467-018-06880-0"
+        },
+        {
+            "name": "Retention and splicing complex (RES) - the importance of cooperativity",
+            "publisher": "RNA Biology",
+            "releaseDate": "2016-02-01",
+            "website": "https:\/\/doi.org\/10.1080\/15476286.2015.1096484"
+        },
+        {
+            "name": "Structures of intermediates during RES complex assembly",
+            "publisher": "Scientific Reports",
+            "releaseDate": "2015-07-27",
+            "website": "https:\/\/doi.org\/10.1038\/srep12545"
+        },
+        {
+            "name": "Cooperative structure of the heterotrimeric pre-mRNA retention and splicing complex",
+            "publisher": "Nature Structural & Molecular Biology ",
+            "releaseDate": "2014-09-14",
+            "website": "https:\/\/doi.org\/10.1038\/nsmb.2889"
+        },
+        {
+            "name": "1H, 13C and 15N chemical shift assignments of unliganded Bcl-xL and its complex with a photoresponsive Bak-derived peptide",
+            "publisher": "Biomolecular NMR Assignments",
+            "releaseDate": "2013-10-07",
+            "website": "https:\/\/doi.org\/10.1007\/s12104-012-9407-9"
+        },
+        {
+            "name": "NMR solution structure of a photoswitchable apoptosis activating Bak peptide bound to Bcl-xL",
+            "publisher": "Journal of American Chemical Society",
+            "releaseDate": "2012-05-09",
+            "website": "https:\/\/doi.org\/10.1021\/ja302390a"
+        },
+        {
+            "name": "Design of photocontrolled RNA-binding peptidomimetics",
+            "publisher": "ChemBioChem",
+            "releaseDate": "2012-02-02",
+            "website": "https:\/\/doi.org\/10.1002%2Fcbic.201100800"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Project Management",
+            "level": "4",
+            "keywords": [
+                "Product Development",
+                "Resource Allocation"
+            ]
+        },
+        {
+            "name": "Molecular Biology",
+            "level": "5",
+            "keywords": [
+                "qPCR",
+                "Cloning",
+                "Gene Analysis"
+            ]
+        },
+        {
+            "name": "Biophysics",
+            "level": "5",
+            "keywords": [
+                "Nuclear Magnetic Resonance (NMR)",
+                "Protein Interaction Analysis",
+                "Protein Structure Calculation",
+                "Data Analysis"
+            ]
+        },
+        {
+            "name": "Protein Chemistry",
+            "level": "5",
+            "keywords": [
+                "Protein Purification",
+                "Chromatography",
+                "Refolding",
+                "Protein Engineering",
+                "Sample Preparation"
+            ]
+        },
+        {
+            "name": "Photography",
+            "level": "4",
+            "keywords": [
+                "Capture One",
+                "Retouch",
+                "Studio Lighting",
+                "Location Shoots"
+            ]
+        },
+        {
+            "name": "Scientific Writting",
+            "level": "5",
+            "keywords": [
+                "Published 7 papers",
+                "Published in Nature Publishing Group",
+                "Contributed to multiple more papers of my colegues"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native or bilingual"
+        },
+        {
+            "language": "Polish",
+            "fluency": "Native or bilingual"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Elementary"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Film",
+            "keywords": [
+                "Final Cut Pro X",
+                "Cinematography",
+                "Screenwriting"
+            ]
+        },
+        {
+            "name": "Music",
+            "keywords": [
+                "EDM",
+                "Rave Culture"
+            ]
+        },
+        {
+            "name": "Philosophy",
+            "keywords": [
+                "Practical epistemiology",
+                "Stoicism"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Mark Stevens, PhD, PCR Biosystems Ltd, Founder and General Manager",
+            "reference": "mark@pcrbio.com"
+        },
+        {
+            "name": "Professor Markus Zweckstetter, PhD, Max Planck Institute, Director",
+            "reference": "mzwecks@gwdg.de | mazw@nmr.mpibpc.mpg.de"
+        },
+        {
+            "name": "Professor Rudolf Allemann, PhD, Cardiff University, Pro Vice-Chancellor and Head of College",
+            "reference": "allemannrk@cardiff.ac.uk"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Ipiko Fashion Brand",
+            "description": "I executed 2 photoshoots for Ipiko Festival fashion brand including post production and retouch.",
+            "highlights": [
+                "Fast paced",
+                "Art Direction",
+                "Lighting Setup",
+                "Post Production"
+            ],
+            "keywords": [
+                "Retouch",
+                "Color Work",
+                "Photography",
+                "Capture One",
+                "Photoshop"
+            ],
+            "startDate": "",
+            "endDate": "",
+            "url": "https:\/\/ipiko.me",
+            "entity": "",
+            "type": ""
+        },
+        {
+            "name": "Green Peace Activist Art Project",
+            "description": "Photoshoot and short documentary for Michelle Meola a wonderful human being and a Greenpeace and Extinction Rebelion activist.",
+            "highlights": [
+                "Documentary",
+                "Location Shoot",
+                "Interviews"
+            ],
+            "keywords": [
+                "Final Cut Pro X",
+                "Color Grading",
+                "Editing",
+                "Cinematography"
+            ],
+            "startDate": "",
+            "endDate": "",
+            "url": "https:\/\/www.instagram.com\/michelle.meola\/?hl=en",
+            "entity": "",
+            "type": ""
+        }
+    ]
+}
